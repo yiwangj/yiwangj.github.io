@@ -1,47 +1,45 @@
 ---
-title: "Admin"
-date: 2024-08-28
-draft: false
 ---
 
 # Display name
 title: 王熠
 
-# Full name (for SEO)
+# Full name 
 first_name: YI
+
 last_name: WANG
 
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
+# Role
 role: Research Assistant in Robotics
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations
 organizations:
-  - name: Carnegie Mellon University 
+  - name: Carnegie Mellon University
+    
     url:  https://www.cmu.edu/
-  - name: Johns Hopkins University 
+    
+  - name: Johns Hopkins University
+    
     url:  url: https://www.jhu.edu/
     
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+
 profiles:
-  - icon: at-symbol
+  - 
     url: 'ywang779@jhu.edu'
+    
     label: E-mail Me
 
 
 education:
-  - area: Master of Science in Engineering, Robotics 
-    institution: Johns Hopkins University
+  - Area: Master of Science in Engineering, Robotics
+    
+    Institution: Johns Hopkins University
+    
     date_start: 2022-08
     date_end: 2024-05
-    summary: |
+    
+    summary: 
       GPA: 3.85/4.0
     
       Core Courses:
@@ -53,21 +51,26 @@ education:
       - Medical Robotics System Design
       - Computer Vision. 
 
-  - area:Bachelor of Science in Mechatronics i
-    institution:  University of Melbourne
+  - Area:Bachelor of Science in Mechatronics
+    
+    Institution:  University of Melbourne
+    
     date_start: 2019-02
-    date_end: 20201-12
-    summary: |
+    date_end: 2021-12
+    
+    summary: 
       GPA: 3.97/4.0
 
 work:
   - position: Research Assistant
+    
     company_name:  AMIRo Laboratory, LCSR, Johns Hopkins University 
-    company_url: ''
-    company_logo: ''
+ 
     date_start: 2024-03
     date_end: ''
-    summary: |2-
+    
+    summary:
+    
       Responsibilities include:
       - Project : Chicken embryo model for retinal vein - like development
       - Utilized the Eyerobot platform to manually puncture veins and validated success through bubble formation
@@ -79,12 +82,14 @@ work:
 
         
   - position: Research Assistant
+    
     company_name: Surgical Mechatronics Laboratory, Carnegie Mellon University Robotics Institute 
-    company_url: ''
-    company_logo: ''
+
     date_start: 2024-06
     date_end: ''
-    summary: |
+    
+    summary:
+    
       Responsibilities include:
       -Project 1: C++ Software development for real-time motor control and communication
       - Implemented a two-way communication module for exchanging control commands between Jetson Nano 
@@ -98,12 +103,14 @@ work:
 
         
 - position: Research Assistant
+  
     company_name: MUSiiC Laboratory , LCSR, Johns Hopkins University
-    company_url: ''
-    company_logo: ''
+
     date_start: 2023-05
     date_end: 2024-02
-    summary: |
+  
+    summary:
+
       Responsibilities include:
       - Project 1: Dual-robotic arm prostate ultrasound (US) tomography
       - Designed a calibration pipeline for the Abdominal Probe and TRUS Probe using Bxp and calculating 
@@ -118,12 +125,13 @@ work:
 
 
 - position: Research Assistant
+  
     company_name: BIGSS Lab Laboratory for Computational Sensing and Robotics, LCSR
-    company_url: ''
-    company_logo: ''
+
     date_start: 2023-02
     date_end: 2023-06
-    summary: |
+  
+    summary: 
       Responsibilities include:
       - Project: Virtual Reality (VR) Drilling Simulator for Laminectomy: Implementation and Evaluation
       - Conducted spine CT segmentation and Colored VR platform setup
@@ -131,20 +139,21 @@ work:
 
 
   - position: Research Assistant
+    
     company_name: Yue- Gang-Ao Artificial Intelligence Association 
-    company_url: ''
-    company_logo: ''
+
     date_start: 2020-12
     date_end: 2021-03
-    summary: |
+    
+    summary: 
       Responsibilities include:
       - Collected datasets and optimized the network structure in three ways and further improved the accuracy of 
-the model, with the adjusted experimental accuracy rate exceeding 80%
+      the model, with the adjusted experimental accuracy rate exceeding 80%
       - Published 2 papers on IEEE conferences
 
         
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+
 skills:
   - name: Technical Skills
     items:
@@ -168,6 +177,7 @@ languages:
     percent: 80
   - name: Chinese
     percent: 100
+
 
 # Awards
 awards:
