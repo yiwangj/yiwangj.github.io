@@ -1,4 +1,5 @@
 ---
+
 ---
 
 Title: 王熠
@@ -22,13 +23,14 @@ Organizations:
     
 
  Profiles:
-  - 
-    url: 'ywang779@jhu.edu'
+  
+  - url: 'ywang779@jhu.edu'
     
-    label: E-mail Me
+  - label: E-mail Me
 
 
  Education:
+ 
   - Area: Master of Science in Engineering, Robotics
     
     Institution: Johns Hopkins University
@@ -59,7 +61,7 @@ Organizations:
       GPA: 3.97/4.0
 
  Work:
-  - position: Research Assistant
+  - Position: Research Assistant
     
     company_name:  AMIRo Laboratory, LCSR, Johns Hopkins University 
  
@@ -69,6 +71,7 @@ Organizations:
     summary:
     
       Responsibilities include:
+    
       - Project : Chicken embryo model for retinal vein - like development
       - Utilized the Eyerobot platform to manually puncture veins and validated success through bubble formation
       - Automated the needle navigation and insertion with deep neural networks (ResNet and Yolov5) on micro 
@@ -108,7 +111,8 @@ Organizations:
   
     summary:
 
-      Responsibilities include:
+    - Responsibilities include:
+  
       - Project 1: Dual-robotic arm prostate ultrasound (US) tomography
       - Designed a calibration pipeline for the Abdominal Probe and TRUS Probe using Bxp and calculating 
       Transformation between Probe Bases using point cloud
