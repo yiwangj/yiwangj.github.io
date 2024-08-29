@@ -5,13 +5,13 @@ Title: 王熠
 
 First_name: YI
 
-last_name: WANG
+Last_name: WANG
 
 
-role: Research Assistant in Robotics
+Role: Research Assistant in Robotics
 
 
-organizations:
+Organizations:
   - name: Carnegie Mellon University
     
     url:  https://www.cmu.edu/
