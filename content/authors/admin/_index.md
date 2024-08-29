@@ -182,6 +182,7 @@ Organizations:
  Awards:
   - title:  scholarship at university of Melbourne in 2021
 
+---
 
 Publication：
 
@@ -194,5 +195,3 @@ Image Processing (ICSIP) (pp. 11-18). IEEE.
 - Chen, Y., Yin, Y., Brown, J., Wang, K., Wang, Y., Wang, Z., Taylor, R.H., Wu, Y. and Boctor, E.M., 2023. 
 Enabling Mammography with Co-Robotic Ultrasound. arXiv preprint arXiv:2312.10309.
 
-
----
