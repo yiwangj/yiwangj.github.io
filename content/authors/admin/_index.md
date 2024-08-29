@@ -26,8 +26,8 @@ education:
     
     institution: Johns Hopkins University
     
-    date_start: 2022-08
-    date_end: 2024-05
+    date_start: 2022-08-30
+    date_end: 2024-05-25
     
     summary: |
       GPA: 3.85/4.0
@@ -45,8 +45,8 @@ education:
     
     institution:  University of Melbourne
     
-    date_start: 2019-02
-    date_end: 2021-12
+    date_start: 2019-02-01
+    date_end: 2021-12-20
     
     summary: |
       GPA: 3.97/4.0
@@ -56,13 +56,11 @@ Work:
     
     company_name:  AMIRo Laboratory, LCSR, Johns Hopkins University 
 
-    date_start: 2024-03
+    date_start: 2024-03-05
     date_end: ''
     
     summary: |
-    
       Responsibilities include:
-    
       - Project : Chicken embryo model for retinal vein - like development
       - Utilized the Eyerobot platform to manually puncture veins and validated success through bubble formation
       - Automated the needle navigation and insertion with deep neural networks (ResNet and Yolov5) on micro 
@@ -76,7 +74,7 @@ Work:
     
     company_name: Surgical Mechatronics Laboratory, Carnegie Mellon University Robotics Institute 
 
-    date_start: 2024-06
+    date_start: 2024-06-03
     date_end: ''
     
     summary: |
@@ -97,8 +95,8 @@ Work:
 
     company_name: MUSiiC Laboratory , LCSR, Johns Hopkins University
 
-    date_start: 2023-05
-    date_end: 2024-02
+    date_start: 2023-05-01
+    date_end: 2024-02-15
 
     summary: |
       Responsibilities include:
@@ -118,8 +116,8 @@ Work:
 
     company_name: BIGSS Lab Laboratory for Computational Sensing and Robotics, LCSR
 
-    date_start: 2023-02
-    date_end: 2023-06
+    date_start: 2023-02-02
+    date_end: 2023-06-09
 
     summary: | 
       Responsibilities include:
@@ -132,8 +130,8 @@ Work:
     
     company_name: Yue- Gang-Ao Artificial Intelligence Association 
 
-    date_start: 2020-12
-    date_end: 2021-03
+    date_start: 2020-12-30
+    date_end: 2021-03-10
     
     summary: |
       Responsibilities include:
