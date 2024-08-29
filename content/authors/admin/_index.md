@@ -1,31 +1,30 @@
 ---
 
-Title: 王熠
+title: 王熠
 
-First_name: YI
-
-Last_name: WANG
-
-
-Role: Research Assistant in Robotics
+first_name: YI
+last_name: WANG
 
 
-Organizations:
+role: Research Assistant in Robotics
+
+
+organizations:
   - name: Carnegie Mellon University
     url:  https://www.cmu.edu/
-    
-  - name: Johns Hopkins University
-    url:  https://www.jhu.edu/
+
+  # - name: Johns Hopkins University
+  #   url:  https://www.jhu.edu/
     
 
- Profiles:
+ profiles:
   
   - url: 'ywang779@jhu.edu'
     
   - label: E-mail Me
 
 
- Education:
+ education:
  
   - Area: Master of Science in Engineering, Robotics
     
@@ -34,7 +33,7 @@ Organizations:
     date_start: 2022-08
     date_end: 2024-05
     
-    summary: 
+    summary: |
       GPA: 3.85/4.0
     
       Core Courses:
@@ -46,14 +45,14 @@ Organizations:
       - Medical Robotics System Design
       - Computer Vision. 
 
-  - Area:Bachelor of Science in Mechatronics
+  - Area: Bachelor of Science in Mechatronics
     
     Institution:  University of Melbourne
     
     date_start: 2019-02
     date_end: 2021-12
     
-    summary: 
+    summary: |
       GPA: 3.97/4.0
 
  Work:
