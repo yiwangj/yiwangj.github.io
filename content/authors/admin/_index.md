@@ -15,7 +15,7 @@ Organizations:
     url:  https://www.cmu.edu/
     
   - name: Johns Hopkins University
-    url:  url: https://www.jhu.edu/
+    url:  https://www.jhu.edu/
     
 
  Profiles:
