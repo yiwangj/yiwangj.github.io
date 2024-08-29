@@ -1,44 +1,35 @@
 ---
 
----
+title: 王熠
 
-Title: 王熠
+first_name: YI
+last_name: WANG
 
-First_name: YI
+role: Research Assistant in Robotics
 
-Last_name: WANG
-
-
-Role: Research Assistant in Robotics
-
-
-Organizations:
+organizations:
   - name: Carnegie Mellon University
-    
     url:  https://www.cmu.edu/
-    
+
   - name: Johns Hopkins University
+    url:  https://www.jhu.edu/
     
-    url:  url: https://www.jhu.edu/
-    
+profiles:
 
- Profiles:
-  
-  - url: 'ywang779@jhu.edu'
-    
-  - label: E-mail Me
+  - icon: at-symbol
+    url: 'ywang779@jhu.edu'
+    label: E-mail Me
 
+education:
 
- Education:
- 
-  - Area: Master of Science in Engineering, Robotics
+  - area: Master of Science in Engineering, Robotics
     
-    Institution: Johns Hopkins University
+    institution: Johns Hopkins University
     
-    date_start: 2022-08
-    date_end: 2024-05
+    date_start: 2022-08-30
+    date_end: 2024-05-25
     
-    summary: 
+    summary: |
       GPA: 3.85/4.0
     
       Core Courses:
@@ -50,28 +41,26 @@ Organizations:
       - Medical Robotics System Design
       - Computer Vision. 
 
-  - Area:Bachelor of Science in Mechatronics
+  - area: Bachelor of Science in Mechatronics
     
-    Institution:  University of Melbourne
+    institution:  University of Melbourne
     
-    date_start: 2019-02
-    date_end: 2021-12
+    date_start: 2019-02-01
+    date_end: 2021-12-20
     
-    summary: 
+    summary: |
       GPA: 3.97/4.0
 
- Work:
-  - Position: Research Assistant
+Work:
+  - position: Research Assistant
     
     company_name:  AMIRo Laboratory, LCSR, Johns Hopkins University 
- 
-    date_start: 2024-03
+
+    date_start: 2024-03-05
     date_end: ''
     
-    summary:
-    
+    summary: |
       Responsibilities include:
-    
       - Project : Chicken embryo model for retinal vein - like development
       - Utilized the Eyerobot platform to manually puncture veins and validated success through bubble formation
       - Automated the needle navigation and insertion with deep neural networks (ResNet and Yolov5) on micro 
@@ -81,14 +70,14 @@ Organizations:
       - In preparation of manuscript for ICRA 2025 (submission deadline September 15)
 
         
-  - Position: Research Assistant
+  - position: Research Assistant
     
     company_name: Surgical Mechatronics Laboratory, Carnegie Mellon University Robotics Institute 
 
-    date_start: 2024-06
+    date_start: 2024-06-03
     date_end: ''
     
-    summary:
+    summary: |
     
       Responsibilities include:
       -Project 1: C++ Software development for real-time motor control and communication
@@ -102,17 +91,15 @@ Organizations:
       - Recurrent whole pipeline
 
         
-- Position: Research Assistant
-  
+  - position: Research Assistant
+
     company_name: MUSiiC Laboratory , LCSR, Johns Hopkins University
 
-    date_start: 2023-05
-    date_end: 2024-02
-  
-    summary:
+    date_start: 2023-05-01
+    date_end: 2024-02-15
 
-    - Responsibilities include:
-  
+    summary: |
+      Responsibilities include:
       - Project 1: Dual-robotic arm prostate ultrasound (US) tomography
       - Designed a calibration pipeline for the Abdominal Probe and TRUS Probe using Bxp and calculating 
       Transformation between Probe Bases using point cloud
@@ -125,28 +112,28 @@ Organizations:
       speckle patterns in ultrasound images
 
 
-- Position: Research Assistant
-  
+  - position: Research Assistant
+
     company_name: BIGSS Lab Laboratory for Computational Sensing and Robotics, LCSR
 
-    date_start: 2023-02
-    date_end: 2023-06
-  
-    summary: 
+    date_start: 2023-02-02
+    date_end: 2023-06-09
+
+    summary: | 
       Responsibilities include:
       - Project: Virtual Reality (VR) Drilling Simulator for Laminectomy: Implementation and Evaluation
       - Conducted spine CT segmentation and Colored VR platform setup
       - Performed laminectomy user studies; analyzed the data collected with the surgeons
 
 
-  - Position: Research Assistant
+  - position: Research Assistant
     
     company_name: Yue- Gang-Ao Artificial Intelligence Association 
 
-    date_start: 2020-12
-    date_end: 2021-03
+    date_start: 2020-12-30
+    date_end: 2021-03-10
     
-    summary: 
+    summary: |
       Responsibilities include:
       - Collected datasets and optimized the network structure in three ways and further improved the accuracy of 
       the model, with the adjusted experimental accuracy rate exceeding 80%
@@ -155,35 +142,36 @@ Organizations:
         
 
 
- Skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-      - name: C++
-      - name: PyTorch
-      - name: Matlab
-      - name: ROS
-        
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Walking
-      - name: Piano
-      - name: Novel
+Skills:
+- name: Technical Skills
+  items:
+    - name: Python
+    - name: C++
+    - name: PyTorch
+    - name: Matlab
+    - name: ROS
+      
+- name: Hobbies
+  color: '#eeac02'
+  color_border: '#f0bf23'
+  items:
+    - name: Walking
+    - name: Piano
+    - name: Novel
 
 
- Languages:
-  - name: English
-    percent: 80
-  - name: Chinese
-    percent: 100
+Languages:
+- name: English
+  percent: 80
+- name: Chinese
+  percent: 100
 
 
 
- Awards:
-  - title:  scholarship at university of Melbourne in 2021
+Awards:
+- title:  scholarship at university of Melbourne in 2021
 
+---
 
 Publication：
 
@@ -196,6 +184,3 @@ Image Processing (ICSIP) (pp. 11-18). IEEE.
 - Chen, Y., Yin, Y., Brown, J., Wang, K., Wang, Y., Wang, Z., Taylor, R.H., Wu, Y. and Boctor, E.M., 2023. 
 Enabling Mammography with Co-Robotic Ultrasound. arXiv preprint arXiv:2312.10309.
 
- and the link of website, could you help me make it more beautiful and git rid of Skills & Hobbies
-Awards
-Languages:https://yiwangj.github.io/
