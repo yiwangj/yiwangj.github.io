@@ -1,5 +1,4 @@
 ---
-
 title: 王   熠
 
 name_pronunciation: WANG    YI
@@ -8,6 +7,7 @@ first_name: YI
 last_name: WANG
 
 role: Research Assistant in Robotics
+
 
 organizations:
   - name: Carnegie Mellon University
@@ -72,7 +72,7 @@ Work:
       - In preparation of manuscript for ICRA 2025 (submission deadline September 15)
 
         
-  - Position: Research Assistant
+  - position: Research Assistant
     
     company_name: Surgical Mechatronics Laboratory, Carnegie Mellon University Robotics Institute 
 
@@ -93,7 +93,8 @@ Work:
       - Recurrent whole pipeline
 
         
-  - Position: Research Assistant
+  - position: Research Assistant
+
 
     company_name: MUSiiC Laboratory , LCSR, Johns Hopkins University
 
@@ -114,7 +115,7 @@ Work:
       speckle patterns in ultrasound images
 
 
-  - Position: Research Assistant
+  - position: Research Assistant
 
     company_name: BIGSS Lab Laboratory for Computational Sensing and Robotics, LCSR
 
