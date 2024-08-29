@@ -5,30 +5,26 @@ title: 王熠
 first_name: YI
 last_name: WANG
 
-
 role: Research Assistant in Robotics
-
 
 organizations:
   - name: Carnegie Mellon University
     url:  https://www.cmu.edu/
 
-  # - name: Johns Hopkins University
-  #   url:  https://www.jhu.edu/
+  - name: Johns Hopkins University
+    url:  https://www.jhu.edu/
     
+profiles:
 
- profiles:
-  
-  - url: 'ywang779@jhu.edu'
+  - icon: at-symbol
+    url: 'ywang779@jhu.edu'
+    label: E-mail Me
+
+education:
+
+  - area: Master of Science in Engineering, Robotics
     
-  - label: E-mail Me
-
-
- education:
- 
-  - Area: Master of Science in Engineering, Robotics
-    
-    Institution: Johns Hopkins University
+    institution: Johns Hopkins University
     
     date_start: 2022-08
     date_end: 2024-05
@@ -45,9 +41,9 @@ organizations:
       - Medical Robotics System Design
       - Computer Vision. 
 
-  - Area: Bachelor of Science in Mechatronics
+  - area: Bachelor of Science in Mechatronics
     
-    Institution:  University of Melbourne
+    institution:  University of Melbourne
     
     date_start: 2019-02
     date_end: 2021-12
@@ -55,15 +51,15 @@ organizations:
     summary: |
       GPA: 3.97/4.0
 
- Work:
-  - Position: Research Assistant
+Work:
+  - position: Research Assistant
     
     company_name:  AMIRo Laboratory, LCSR, Johns Hopkins University 
- 
+
     date_start: 2024-03
     date_end: ''
     
-    summary:
+    summary: |
     
       Responsibilities include:
     
@@ -83,7 +79,7 @@ organizations:
     date_start: 2024-06
     date_end: ''
     
-    summary:
+    summary: |
     
       Responsibilities include:
       -Project 1: C++ Software development for real-time motor control and communication
@@ -97,17 +93,17 @@ organizations:
       - Recurrent whole pipeline
 
         
-- Position: Research Assistant
-  
+  - position: Research Assistant
+
     company_name: MUSiiC Laboratory , LCSR, Johns Hopkins University
 
     date_start: 2023-05
     date_end: 2024-02
-  
-    summary:
+
+    summary: | 
 
     - Responsibilities include:
-  
+
       - Project 1: Dual-robotic arm prostate ultrasound (US) tomography
       - Designed a calibration pipeline for the Abdominal Probe and TRUS Probe using Bxp and calculating 
       Transformation between Probe Bases using point cloud
@@ -120,21 +116,21 @@ organizations:
       speckle patterns in ultrasound images
 
 
-- Position: Research Assistant
-  
+  - Position: Research Assistant
+
     company_name: BIGSS Lab Laboratory for Computational Sensing and Robotics, LCSR
 
     date_start: 2023-02
     date_end: 2023-06
-  
-    summary: 
+
+    summary: | 
       Responsibilities include:
       - Project: Virtual Reality (VR) Drilling Simulator for Laminectomy: Implementation and Evaluation
       - Conducted spine CT segmentation and Colored VR platform setup
       - Performed laminectomy user studies; analyzed the data collected with the surgeons
 
 
-  - Position: Research Assistant
+  - position: Research Assistant
     
     company_name: Yue- Gang-Ao Artificial Intelligence Association 
 
@@ -150,34 +146,34 @@ organizations:
         
 
 
- Skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-      - name: C++
-      - name: PyTorch
-      - name: Matlab
-      - name: ROS
-        
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Walking
-      - name: Piano
-      - name: Novel
+Skills:
+- name: Technical Skills
+  items:
+    - name: Python
+    - name: C++
+    - name: PyTorch
+    - name: Matlab
+    - name: ROS
+      
+- name: Hobbies
+  color: '#eeac02'
+  color_border: '#f0bf23'
+  items:
+    - name: Walking
+    - name: Piano
+    - name: Novel
 
 
- Languages:
-  - name: English
-    percent: 80
-  - name: Chinese
-    percent: 100
+Languages:
+- name: English
+  percent: 80
+- name: Chinese
+  percent: 100
 
 
 
- Awards:
-  - title:  scholarship at university of Melbourne in 2021
+Awards:
+- title:  scholarship at university of Melbourne in 2021
 
 ---
 
