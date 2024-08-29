@@ -1,8 +1,8 @@
 ---
 
-title: 王 熠
+title: 王   熠
 
-name_pronunciation: WANG YI
+name_pronunciation: WANG    YI
 
 first_name: YI
 last_name: WANG
@@ -177,7 +177,7 @@ Awards:
 
 Publication：
 
-- Wang, Y., Feng, W., Zhou, J., Yang, G., __Wang, Y.__, Lei, Q., ... & Wang, W. (2021, April). Design and 
+- __Wang, Y.__, Feng, W., Zhou, J., Yang, G., Wang, Y., Lei, Q., ... & Wang, W. (2021, April). Design and 
 Implementation of Garbage Classification System Based on Deep Learning. In 2021 7th International 
 Conference on Control, Automation and Robotics (ICCAR) (pp. 337-344). IEEE.
 - Yang, G., Jin, J., Lei, Q., __Wang, Y.__, Zhou, J., Sun, Z., ... & Wang, W. (2021, October). Garbage classification 
