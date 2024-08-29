@@ -2,6 +2,8 @@
 
 title: 王熠
 
+name_pronunciation: Wang Yi
+
 first_name: YI
 last_name: WANG
 
@@ -175,12 +177,12 @@ Awards:
 
 Publication：
 
-- Wang, Y., Feng, W., Zhou, J., Yang, G., Wang, Y., Lei, Q., ... & Wang, W. (2021, April). Design and 
+- Wang, Y., Feng, W., Zhou, J., Yang, G., _Wang, Y._, Lei, Q., ... & Wang, W. (2021, April). Design and 
 Implementation of Garbage Classification System Based on Deep Learning. In 2021 7th International 
 Conference on Control, Automation and Robotics (ICCAR) (pp. 337-344). IEEE.
-- Yang, G., Jin, J., Lei, Q., Wang, Y., Zhou, J., Sun, Z., ... & Wang, W. (2021, October). Garbage classification 
+- Yang, G., Jin, J., Lei, Q., _Wang, Y._, Zhou, J., Sun, Z., ... & Wang, W. (2021, October). Garbage classification 
 system with yolov5 based on image recognition. In 2021 IEEE 6th International Conference on Signal and 
 Image Processing (ICSIP) (pp. 11-18). IEEE. 
-- Chen, Y., Yin, Y., Brown, J., Wang, K., Wang, Y., Wang, Z., Taylor, R.H., Wu, Y. and Boctor, E.M., 2023. 
+- Chen, Y., Yin, Y., Brown, J., Wang, K., _Wang, Y._, Wang, Z., Taylor, R.H., Wu, Y. and Boctor, E.M., 2023. 
 Enabling Mammography with Co-Robotic Ultrasound. arXiv preprint arXiv:2312.10309.
 
