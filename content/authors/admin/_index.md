@@ -5,6 +5,7 @@ title: 王   熠
 name_pronunciation: WANG    YI
 
 first_name: YI
+
 last_name: WANG
 
 role: Research Assistant in Robotics
@@ -20,7 +21,7 @@ organizations:
 profiles:
 
   - icon: at-symbol
-    url: 'ywang779@jhu.edu'
+    url: 'mailto:ywang779@jhu.edu'
     label: E-mail Me
 
 education:
