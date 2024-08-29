@@ -12,11 +12,9 @@ Role: Research Assistant in Robotics
 
 Organizations:
   - name: Carnegie Mellon University
-    
     url:  https://www.cmu.edu/
     
   - name: Johns Hopkins University
-    
     url:  url: https://www.jhu.edu/
     
 
