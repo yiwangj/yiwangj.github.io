@@ -21,7 +21,7 @@ organizations:
 profiles:
 
   - icon: at-symbol
-    url: 'mailto:ywang779@jhu.edu'
+    url: 'ywang779@jhu.edu'
     label: E-mail Me
 
 education:
