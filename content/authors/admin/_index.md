@@ -93,17 +93,15 @@ Work:
       - Recurrent whole pipeline
 
         
-  - position: Research Assistant
+  - Position: Research Assistant
 
     company_name: MUSiiC Laboratory , LCSR, Johns Hopkins University
 
     date_start: 2023-05
     date_end: 2024-02
 
-    summary: | 
-
-    - Responsibilities include:
-
+    summary: |
+      Responsibilities include:
       - Project 1: Dual-robotic arm prostate ultrasound (US) tomography
       - Designed a calibration pipeline for the Abdominal Probe and TRUS Probe using Bxp and calculating 
       Transformation between Probe Bases using point cloud
