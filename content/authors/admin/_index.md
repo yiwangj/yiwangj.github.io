@@ -135,7 +135,7 @@ Work:
     date_start: 2020-12
     date_end: 2021-03
     
-    summary: 
+    summary: |
       Responsibilities include:
       - Collected datasets and optimized the network structure in three ways and further improved the accuracy of 
       the model, with the adjusted experimental accuracy rate exceeding 80%
